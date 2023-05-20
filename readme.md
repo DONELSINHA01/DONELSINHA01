@@ -1,5 +1,5 @@
 
-![logo]([https://user-images.githubusercontent.com/127314628/227901416-30d0957f-a525-4d3c-a320-391d99513820.png](https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg))
+![logo](https://user-images.githubusercontent.com/127314628/227901416-30d0957f-a525-4d3c-a320-391d99513820.png](https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg)
 <h1 align="center">Hey 👋, I'm Donel Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
